@@ -1,0 +1,652 @@
+[
+  {
+    "name": "Zen Yoga Studio",
+    "description": "A peaceful sanctuary for yoga practice with experienced instructors and modern amenities. Perfect for beginners and advanced practitioners alike.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "123 Peaceful Lane",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zipCode": "400001",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8777, 19.076]
+    },
+    "phone": "+91-9876543210",
+    "email": "info@zenyogastudio.com",
+    "website": "https://zenyogastudio.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "meditation_room",
+      "wifi",
+      "changing_rooms"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Hatha Yoga",
+        "instructor": "Priya Sharma",
+        "capacity": 20,
+        "price": 300
+      },
+      {
+        "day": "monday",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "className": "Vinyasa Flow",
+        "instructor": "Rajesh Kumar",
+        "capacity": 25,
+        "price": 350
+      }
+    ],
+    "dropInRate": 400,
+    "packages": [
+      {
+        "name": "Monthly Unlimited",
+        "classes": 30,
+        "price": 3000,
+        "validityDays": 30
+      },
+      {
+        "name": "10 Class Pack",
+        "classes": 10,
+        "price": 2500,
+        "validityDays": 60
+      }
+    ],
+    "rating": 4.5,
+    "reviewCount": 127,
+    "isActive": true
+  },
+  {
+    "name": "Om Shanti Yoga Center",
+    "description": "Traditional yoga teachings in a modern setting. Specializing in Ashtanga and Iyengar yoga with certified instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500",
+      "https://images.unsplash.com/photo-1545389336-cf090694435e?w=500"
+    ],
+    "address": {
+      "street": "456 Harmony Street",
+      "city": "Delhi",
+      "state": "Delhi",
+      "zipCode": "110001",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [77.209, 28.6139]
+    },
+    "phone": "+91-9876543211",
+    "email": "contact@omshantiyoga.com",
+    "website": "https://omshantiyoga.com",
+    "amenities": [
+      "parking",
+      "props",
+      "mats",
+      "water",
+      "tea",
+      "meditation_room",
+      "ac",
+      "music_system",
+      "wifi"
+    ],
+    "schedule": [
+      {
+        "day": "tuesday",
+        "startTime": "07:00",
+        "endTime": "08:30",
+        "className": "Ashtanga Primary Series",
+        "instructor": "Guru Mahesh",
+        "capacity": 15,
+        "price": 500
+      },
+      {
+        "day": "wednesday",
+        "startTime": "18:30",
+        "endTime": "20:00",
+        "className": "Iyengar Yoga",
+        "instructor": "Lakshmi Devi",
+        "capacity": 12,
+        "price": 450
+      }
+    ],
+    "dropInRate": 600,
+    "packages": [
+      {
+        "name": "3 Month Package",
+        "classes": 90,
+        "price": 8000,
+        "validityDays": 90
+      },
+      {
+        "name": "Drop-in Class",
+        "classes": 1,
+        "price": 600,
+        "validityDays": 1
+      }
+    ],
+    "rating": 4.8,
+    "reviewCount": 89,
+    "isActive": true
+  },
+  {
+    "name": "Bliss Yoga & Wellness",
+    "description": "Comprehensive wellness center offering yoga, meditation, and holistic healing. Perfect for stress relief and mental wellness.",
+    "images": [
+      "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "789 Wellness Avenue",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zipCode": "560001",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [77.5946, 12.9716]
+    },
+    "phone": "+91-9876543212",
+    "email": "hello@blissyoga.com",
+    "website": "https://blissyoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space",
+      "ac",
+      "heating",
+      "music_system",
+      "wifi",
+      "changing_rooms"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:30",
+        "endTime": "07:30",
+        "className": "Morning Flow",
+        "instructor": "Anita Patel",
+        "capacity": 30,
+        "price": 250
+      },
+      {
+        "day": "friday",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "className": "Restorative Yoga",
+        "instructor": "Dr. Meera Singh",
+        "capacity": 20,
+        "price": 300
+      }
+    ],
+    "dropInRate": 350,
+    "packages": [
+      {
+        "name": "Wellness Package",
+        "classes": 20,
+        "price": 4000,
+        "validityDays": 45
+      },
+      {
+        "name": "Annual Membership",
+        "classes": 365,
+        "price": 25000,
+        "validityDays": 365
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 203,
+    "isActive": true
+  },
+  {
+    "name": "Power Yoga Studio",
+    "description": "High-energy yoga studio focusing on strength, flexibility, and cardiovascular fitness. Perfect for fitness enthusiasts.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+    ],
+    "address": {
+      "street": "321 Fitness Road",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zipCode": "600001",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [80.2707, 13.0827]
+    },
+    "phone": "+91-9876543213",
+    "email": "info@poweryogastudio.com",
+    "website": "https://poweryogastudio.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "ac",
+      "music_system",
+      "wifi",
+      "changing_rooms"
+    ],
+    "schedule": [
+      {
+        "day": "tuesday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Power Vinyasa",
+        "instructor": "Vikram Malhotra",
+        "capacity": 35,
+        "price": 400
+      },
+      {
+        "day": "thursday",
+        "startTime": "18:00",
+        "endTime": "19:30",
+        "className": "Advanced Power Flow",
+        "instructor": "Sneha Reddy",
+        "capacity": 25,
+        "price": 500
+      }
+    ],
+    "dropInRate": 450,
+    "packages": [
+      {
+        "name": "Fitness Package",
+        "classes": 15,
+        "price": 5000,
+        "validityDays": 30
+      },
+      {
+        "name": "Unlimited Monthly",
+        "classes": 30,
+        "price": 6000,
+        "validityDays": 30
+      }
+    ],
+    "rating": 4.4,
+    "reviewCount": 156,
+    "isActive": true
+  },
+  {
+    "name": "Tranquil Yoga Space",
+    "description": "A serene environment for traditional yoga practice. Specializing in Hatha, Kundalini, and meditation techniques.",
+    "images": [
+      "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=500",
+      "https://images.unsplash.com/photo-1545389336-cf090694435e?w=500"
+    ],
+    "address": {
+      "street": "654 Serenity Lane",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zipCode": "411001",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [73.8567, 18.5204]
+    },
+    "phone": "+91-9876543214",
+    "email": "peace@tranquilyoga.com",
+    "website": "https://tranquilyoga.com",
+    "amenities": [
+      "props",
+      "mats",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space",
+      "ac",
+      "music_system",
+      "wifi"
+    ],
+    "schedule": [
+      {
+        "day": "wednesday",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "className": "Hatha Yoga",
+        "instructor": "Swami Anand",
+        "capacity": 18,
+        "price": 350
+      },
+      {
+        "day": "saturday",
+        "startTime": "08:00",
+        "endTime": "09:30",
+        "className": "Kundalini Yoga",
+        "instructor": "Gurpreet Kaur",
+        "capacity": 15,
+        "price": 400
+      }
+    ],
+    "dropInRate": 400,
+    "packages": [
+      {
+        "name": "Spiritual Journey",
+        "classes": 25,
+        "price": 3500,
+        "validityDays": 60
+      },
+      {
+        "name": "Meditation Package",
+        "classes": 10,
+        "price": 2000,
+        "validityDays": 30
+      }
+    ],
+    "rating": 4.7,
+    "reviewCount": 94,
+    "isActive": true
+  },
+  {
+    "name": "Urban Yoga Hub",
+    "description": "Modern yoga studio in the heart of the city. Offering various styles from beginner to advanced levels with flexible timing.",
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+    ],
+    "address": {
+      "street": "987 City Center",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zipCode": "500001",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [78.4867, 17.385]
+    },
+    "phone": "+91-9876543215",
+    "email": "connect@urbanyogahub.com",
+    "website": "https://urbanyogahub.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "ac",
+      "music_system",
+      "wifi",
+      "changing_rooms"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "className": "Morning Flow",
+        "instructor": "Riya Sharma",
+        "capacity": 25,
+        "price": 300
+      },
+      {
+        "day": "friday",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "className": "Evening Relaxation",
+        "instructor": "Arjun Mehta",
+        "capacity": 20,
+        "price": 250
+      }
+    ],
+    "dropInRate": 350,
+    "packages": [
+      {
+        "name": "Flexible Package",
+        "classes": 12,
+        "price": 3000,
+        "validityDays": 45
+      },
+      {
+        "name": "Corporate Package",
+        "classes": 50,
+        "price": 10000,
+        "validityDays": 90
+      }
+    ],
+    "rating": 4.3,
+    "reviewCount": 178,
+    "isActive": true
+  },
+  {
+    "name": "Sacred Yoga Temple",
+    "description": "Traditional yoga ashram offering authentic teachings in a spiritual environment. Perfect for deep practice and self-discovery.",
+    "images": [
+      "https://images.unsplash.com/photo-1545389336-cf090694435e?w=500",
+      "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=500"
+    ],
+    "address": {
+      "street": "456 Spiritual Path",
+      "city": "Varanasi",
+      "state": "Uttar Pradesh",
+      "zipCode": "221001",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [82.9739, 25.3176]
+    },
+    "phone": "+91-9876543216",
+    "email": "blessings@sacredyoga.com",
+    "website": "https://sacredyoga.com",
+    "amenities": [
+      "props",
+      "mats",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space",
+      "ac",
+      "music_system"
+    ],
+    "schedule": [
+      {
+        "day": "sunday",
+        "startTime": "06:00",
+        "endTime": "07:30",
+        "className": "Surya Namaskar",
+        "instructor": "Pandit Ram Das",
+        "capacity": 30,
+        "price": 200
+      },
+      {
+        "day": "wednesday",
+        "startTime": "18:00",
+        "endTime": "19:30",
+        "className": "Bhagavad Gita Study",
+        "instructor": "Swami Vivek",
+        "capacity": 20,
+        "price": 150
+      }
+    ],
+    "dropInRate": 250,
+    "packages": [
+      {
+        "name": "Spiritual Package",
+        "classes": 30,
+        "price": 2000,
+        "validityDays": 60
+      },
+      {
+        "name": "Retreat Package",
+        "classes": 100,
+        "price": 5000,
+        "validityDays": 180
+      }
+    ],
+    "rating": 4.9,
+    "reviewCount": 67,
+    "isActive": true
+  },
+  {
+    "name": "Fitness Yoga Zone",
+    "description": "High-intensity yoga studio combining traditional poses with modern fitness techniques. Great for weight loss and muscle toning.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "789 Fitness Street",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zipCode": "380001",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [72.5714, 23.0225]
+    },
+    "phone": "+91-9876543217",
+    "email": "fit@fitnessyogazone.com",
+    "website": "https://fitnessyogazone.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "ac",
+      "music_system",
+      "wifi",
+      "changing_rooms"
+    ],
+    "schedule": [
+      {
+        "day": "tuesday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Cardio Yoga",
+        "instructor": "Priyanka Patel",
+        "capacity": 40,
+        "price": 400
+      },
+      {
+        "day": "thursday",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "className": "Strength Yoga",
+        "instructor": "Rahul Singh",
+        "capacity": 30,
+        "price": 450
+      }
+    ],
+    "dropInRate": 500,
+    "packages": [
+      {
+        "name": "Weight Loss Package",
+        "classes": 20,
+        "price": 6000,
+        "validityDays": 30
+      },
+      {
+        "name": "Fitness Challenge",
+        "classes": 30,
+        "price": 8000,
+        "validityDays": 45
+      }
+    ],
+    "rating": 4.2,
+    "reviewCount": 145,
+    "isActive": true
+  },
+  {
+    "name": "Mindful Yoga Studio",
+    "description": "Focus on mindfulness and mental wellness through gentle yoga practices. Perfect for stress relief and emotional balance.",
+    "images": [
+      "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=500",
+      "https://images.unsplash.com/photo-1545389336-cf090694435e?w=500"
+    ],
+    "address": {
+      "street": "321 Mindful Avenue",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zipCode": "700001",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [88.3639, 22.5726]
+    },
+    "phone": "+91-9876543218",
+    "email": "mindful@mindfulyoga.com",
+    "website": "https://mindfulyoga.com",
+    "amenities": [
+      "props",
+      "mats",
+      "water",
+      "tea",
+      "meditation_room",
+      "ac",
+      "music_system",
+      "wifi"
+    ],
+    "schedule": [
+      {
+        "day": "friday",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "className": "Mindful Morning",
+        "instructor": "Dr. Anjali Sen",
+        "capacity": 20,
+        "price": 300
+      },
+      {
+        "day": "sunday",
+        "startTime": "09:00",
+        "endTime": "10:30",
+        "className": "Meditation & Yoga",
+        "instructor": "Guru Param",
+        "capacity": 15,
+        "price": 350
+      }
+    ],
+    "dropInRate": 400,
+    "packages": [
+      {
+        "name": "Mindfulness Package",
+        "classes": 15,
+        "price": 3500,
+        "validityDays": 40
+      },
+      {
+        "name": "Stress Relief",
+        "classes": 8,
+        "price": 2000,
+        "validityDays": 30
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 112,
+    "isActive": true
+  }
+]

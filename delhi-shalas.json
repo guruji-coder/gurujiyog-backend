@@ -1,0 +1,2750 @@
+[
+  {
+    "name": "Connaught Place Yoga Center",
+    "description": "Premium yoga studio in Connaught Place offering kundalini yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "42 Connaught Place",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110001",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.2141425842019,
+        28.606149404677396
+      ]
+    },
+    "phone": "+91-9876543001",
+    "email": "info@connaughtplace-yoga.com",
+    "website": "https://connaughtplace-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Kundalini Yoga",
+        "instructor": "Guru Mahesh",
+        "capacity": 30,
+        "price": 431
+      }
+    ],
+    "dropInRate": 424,
+    "packages": [
+      {
+        "name": "Connaught Place Package",
+        "classes": 10,
+        "price": 2639,
+        "validityDays": 57
+      }
+    ],
+    "rating": "4.9",
+    "reviewCount": 195,
+    "isActive": true
+  },
+  {
+    "name": "Khan Market Yoga Center",
+    "description": "Premium yoga studio in Khan Market offering kundalini yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "66 Khan Market",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110003",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.23042868834881,
+        28.599325762040852
+      ]
+    },
+    "phone": "+91-9876543002",
+    "email": "info@khanmarket-yoga.com",
+    "website": "https://khanmarket-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Kundalini Yoga",
+        "instructor": "Swami Anand",
+        "capacity": 33,
+        "price": 458
+      }
+    ],
+    "dropInRate": 449,
+    "packages": [
+      {
+        "name": "Khan Market Package",
+        "classes": 19,
+        "price": 2433,
+        "validityDays": 56
+      }
+    ],
+    "rating": "5.0",
+    "reviewCount": 62,
+    "isActive": true
+  },
+  {
+    "name": "Lajpat Nagar Yoga Center",
+    "description": "Premium yoga studio in Lajpat Nagar offering kundalini yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "48 Lajpat Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110024",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.23114111499366,
+        28.576093951997045
+      ]
+    },
+    "phone": "+91-9876543003",
+    "email": "info@lajpatnagar-yoga.com",
+    "website": "https://lajpatnagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Kundalini Yoga",
+        "instructor": "Dr. Anjali Sen",
+        "capacity": 33,
+        "price": 400
+      }
+    ],
+    "dropInRate": 408,
+    "packages": [
+      {
+        "name": "Lajpat Nagar Package",
+        "classes": 17,
+        "price": 3324,
+        "validityDays": 48
+      }
+    ],
+    "rating": "4.2",
+    "reviewCount": 186,
+    "isActive": true
+  },
+  {
+    "name": "Greater Kailash Yoga Center",
+    "description": "Premium yoga studio in Greater Kailash offering power yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "57 Greater Kailash",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110048",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.250167514223,
+        28.54994489060759
+      ]
+    },
+    "phone": "+91-9876543004",
+    "email": "info@greaterkailash-yoga.com",
+    "website": "https://greaterkailash-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Power Yoga",
+        "instructor": "Guru Param",
+        "capacity": 30,
+        "price": 402
+      }
+    ],
+    "dropInRate": 428,
+    "packages": [
+      {
+        "name": "Greater Kailash Package",
+        "classes": 14,
+        "price": 3289,
+        "validityDays": 35
+      }
+    ],
+    "rating": "3.8",
+    "reviewCount": 77,
+    "isActive": true
+  },
+  {
+    "name": "Hauz Khas Yoga Center",
+    "description": "Premium yoga studio in Hauz Khas offering bikram yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "97 Hauz Khas",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110016",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.1955184103572,
+        28.55439781674627
+      ]
+    },
+    "phone": "+91-9876543005",
+    "email": "info@hauzkhas-yoga.com",
+    "website": "https://hauzkhas-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Bikram Yoga",
+        "instructor": "Rajesh Kumar",
+        "capacity": 25,
+        "price": 360
+      }
+    ],
+    "dropInRate": 422,
+    "packages": [
+      {
+        "name": "Hauz Khas Package",
+        "classes": 19,
+        "price": 3606,
+        "validityDays": 49
+      }
+    ],
+    "rating": "3.7",
+    "reviewCount": 177,
+    "isActive": true
+  },
+  {
+    "name": "South Extension Yoga Center",
+    "description": "Premium yoga studio in South Extension offering restorative yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "77 South Extension",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110049",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.23571569845755,
+        28.55675032225962
+      ]
+    },
+    "phone": "+91-9876543006",
+    "email": "info@southextension-yoga.com",
+    "website": "https://southextension-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Restorative Yoga",
+        "instructor": "Guru Param",
+        "capacity": 29,
+        "price": 397
+      }
+    ],
+    "dropInRate": 423,
+    "packages": [
+      {
+        "name": "South Extension Package",
+        "classes": 16,
+        "price": 3894,
+        "validityDays": 43
+      }
+    ],
+    "rating": "4.5",
+    "reviewCount": 60,
+    "isActive": true
+  },
+  {
+    "name": "Defence Colony Yoga Center",
+    "description": "Premium yoga studio in Defence Colony offering bikram yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "36 Defence Colony",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110024",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.24517306838304,
+        28.569730900271168
+      ]
+    },
+    "phone": "+91-9876543007",
+    "email": "info@defencecolony-yoga.com",
+    "website": "https://defencecolony-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space",
+      "ac",
+      "heating"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Bikram Yoga",
+        "instructor": "Riya Sharma",
+        "capacity": 21,
+        "price": 302
+      }
+    ],
+    "dropInRate": 307,
+    "packages": [
+      {
+        "name": "Defence Colony Package",
+        "classes": 16,
+        "price": 2329,
+        "validityDays": 32
+      }
+    ],
+    "rating": "4.6",
+    "reviewCount": 211,
+    "isActive": true
+  },
+  {
+    "name": "Vasant Vihar Yoga Center",
+    "description": "Premium yoga studio in Vasant Vihar offering kundalini yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "44 Vasant Vihar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110057",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.16975956273838,
+        28.571065000578372
+      ]
+    },
+    "phone": "+91-9876543008",
+    "email": "info@vasantvihar-yoga.com",
+    "website": "https://vasantvihar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space",
+      "ac"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Kundalini Yoga",
+        "instructor": "Arjun Mehta",
+        "capacity": 26,
+        "price": 408
+      }
+    ],
+    "dropInRate": 353,
+    "packages": [
+      {
+        "name": "Vasant Vihar Package",
+        "classes": 19,
+        "price": 3107,
+        "validityDays": 49
+      }
+    ],
+    "rating": "3.9",
+    "reviewCount": 242,
+    "isActive": true
+  },
+  {
+    "name": "Dwarka Yoga Center",
+    "description": "Premium yoga studio in Dwarka offering restorative yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "37 Dwarka",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110078",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.05032354036528,
+        28.58265145414969
+      ]
+    },
+    "phone": "+91-9876543009",
+    "email": "info@dwarka-yoga.com",
+    "website": "https://dwarka-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Restorative Yoga",
+        "instructor": "Sneha Reddy",
+        "capacity": 16,
+        "price": 446
+      }
+    ],
+    "dropInRate": 467,
+    "packages": [
+      {
+        "name": "Dwarka Package",
+        "classes": 15,
+        "price": 3575,
+        "validityDays": 42
+      }
+    ],
+    "rating": "3.5",
+    "reviewCount": 119,
+    "isActive": true
+  },
+  {
+    "name": "Rohini Yoga Center",
+    "description": "Premium yoga studio in Rohini offering restorative yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "10 Rohini",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110085",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.11638159974206,
+        28.743941940021465
+      ]
+    },
+    "phone": "+91-9876543010",
+    "email": "info@rohini-yoga.com",
+    "website": "https://rohini-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Restorative Yoga",
+        "instructor": "Rajesh Kumar",
+        "capacity": 17,
+        "price": 418
+      }
+    ],
+    "dropInRate": 414,
+    "packages": [
+      {
+        "name": "Rohini Package",
+        "classes": 13,
+        "price": 2359,
+        "validityDays": 46
+      }
+    ],
+    "rating": "4.5",
+    "reviewCount": 73,
+    "isActive": true
+  },
+  {
+    "name": "Pitampura Yoga Center",
+    "description": "Premium yoga studio in Pitampura offering kundalini yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "53 Pitampura",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110034",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.1234248344366,
+        28.706623057070964
+      ]
+    },
+    "phone": "+91-9876543011",
+    "email": "info@pitampura-yoga.com",
+    "website": "https://pitampura-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Kundalini Yoga",
+        "instructor": "Swami Anand",
+        "capacity": 19,
+        "price": 343
+      }
+    ],
+    "dropInRate": 463,
+    "packages": [
+      {
+        "name": "Pitampura Package",
+        "classes": 16,
+        "price": 3427,
+        "validityDays": 36
+      }
+    ],
+    "rating": "3.9",
+    "reviewCount": 188,
+    "isActive": true
+  },
+  {
+    "name": "Janakpuri Yoga Center",
+    "description": "Premium yoga studio in Janakpuri offering vinyasa flow and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "59 Janakpuri",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110058",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.07148281068352,
+        28.615116831716843
+      ]
+    },
+    "phone": "+91-9876543012",
+    "email": "info@janakpuri-yoga.com",
+    "website": "https://janakpuri-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Vinyasa Flow",
+        "instructor": "Pandit Ram Das",
+        "capacity": 15,
+        "price": 463
+      }
+    ],
+    "dropInRate": 360,
+    "packages": [
+      {
+        "name": "Janakpuri Package",
+        "classes": 23,
+        "price": 2798,
+        "validityDays": 48
+      }
+    ],
+    "rating": "4.2",
+    "reviewCount": 240,
+    "isActive": true
+  },
+  {
+    "name": "Rajouri Garden Yoga Center",
+    "description": "Premium yoga studio in Rajouri Garden offering yin yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "27 Rajouri Garden",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110027",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.10023848385676,
+        28.654063964975006
+      ]
+    },
+    "phone": "+91-9876543013",
+    "email": "info@rajourigarden-yoga.com",
+    "website": "https://rajourigarden-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Yin Yoga",
+        "instructor": "Riya Sharma",
+        "capacity": 32,
+        "price": 443
+      }
+    ],
+    "dropInRate": 441,
+    "packages": [
+      {
+        "name": "Rajouri Garden Package",
+        "classes": 15,
+        "price": 2614,
+        "validityDays": 45
+      }
+    ],
+    "rating": "4.9",
+    "reviewCount": 204,
+    "isActive": true
+  },
+  {
+    "name": "Paschim Vihar Yoga Center",
+    "description": "Premium yoga studio in Paschim Vihar offering restorative yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "84 Paschim Vihar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110063",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.09733838799428,
+        28.66291690152184
+      ]
+    },
+    "phone": "+91-9876543014",
+    "email": "info@paschimvihar-yoga.com",
+    "website": "https://paschimvihar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Restorative Yoga",
+        "instructor": "Arjun Mehta",
+        "capacity": 16,
+        "price": 321
+      }
+    ],
+    "dropInRate": 369,
+    "packages": [
+      {
+        "name": "Paschim Vihar Package",
+        "classes": 20,
+        "price": 3337,
+        "validityDays": 54
+      }
+    ],
+    "rating": "4.0",
+    "reviewCount": 147,
+    "isActive": true
+  },
+  {
+    "name": "Patel Nagar Yoga Center",
+    "description": "Premium yoga studio in Patel Nagar offering yin yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "20 Patel Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110008",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.1898523029921,
+        28.640010284928177
+      ]
+    },
+    "phone": "+91-9876543015",
+    "email": "info@patelnagar-yoga.com",
+    "website": "https://patelnagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Yin Yoga",
+        "instructor": "Lakshmi Devi",
+        "capacity": 29,
+        "price": 330
+      }
+    ],
+    "dropInRate": 352,
+    "packages": [
+      {
+        "name": "Patel Nagar Package",
+        "classes": 14,
+        "price": 3334,
+        "validityDays": 49
+      }
+    ],
+    "rating": "4.1",
+    "reviewCount": 217,
+    "isActive": true
+  },
+  {
+    "name": "Karol Bagh Yoga Center",
+    "description": "Premium yoga studio in Karol Bagh offering bikram yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "83 Karol Bagh",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110005",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.20469925115074,
+        28.659675976225206
+      ]
+    },
+    "phone": "+91-9876543016",
+    "email": "info@karolbagh-yoga.com",
+    "website": "https://karolbagh-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Bikram Yoga",
+        "instructor": "Swami Anand",
+        "capacity": 26,
+        "price": 301
+      }
+    ],
+    "dropInRate": 419,
+    "packages": [
+      {
+        "name": "Karol Bagh Package",
+        "classes": 14,
+        "price": 2205,
+        "validityDays": 43
+      }
+    ],
+    "rating": "3.8",
+    "reviewCount": 174,
+    "isActive": true
+  },
+  {
+    "name": "Paharganj Yoga Center",
+    "description": "Premium yoga studio in Paharganj offering bikram yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "48 Paharganj",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110055",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.21794658736698,
+        28.642515831586703
+      ]
+    },
+    "phone": "+91-9876543017",
+    "email": "info@paharganj-yoga.com",
+    "website": "https://paharganj-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space",
+      "ac"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Bikram Yoga",
+        "instructor": "Sneha Reddy",
+        "capacity": 31,
+        "price": 481
+      }
+    ],
+    "dropInRate": 389,
+    "packages": [
+      {
+        "name": "Paharganj Package",
+        "classes": 22,
+        "price": 2553,
+        "validityDays": 51
+      }
+    ],
+    "rating": "5.0",
+    "reviewCount": 152,
+    "isActive": true
+  },
+  {
+    "name": "Old Delhi Yoga Center",
+    "description": "Premium yoga studio in Old Delhi offering ashtanga yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "2 Old Delhi",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110006",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.211743955028,
+        28.65032995239794
+      ]
+    },
+    "phone": "+91-9876543018",
+    "email": "info@olddelhi-yoga.com",
+    "website": "https://olddelhi-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space",
+      "ac"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Ashtanga Yoga",
+        "instructor": "Guru Mahesh",
+        "capacity": 16,
+        "price": 486
+      }
+    ],
+    "dropInRate": 428,
+    "packages": [
+      {
+        "name": "Old Delhi Package",
+        "classes": 22,
+        "price": 2659,
+        "validityDays": 41
+      }
+    ],
+    "rating": "4.0",
+    "reviewCount": 232,
+    "isActive": true
+  },
+  {
+    "name": "Chandni Chowk Yoga Center",
+    "description": "Premium yoga studio in Chandni Chowk offering power yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "67 Chandni Chowk",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110006",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.23401768653481,
+        28.651932465724236
+      ]
+    },
+    "phone": "+91-9876543019",
+    "email": "info@chandnichowk-yoga.com",
+    "website": "https://chandnichowk-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Power Yoga",
+        "instructor": "Pandit Ram Das",
+        "capacity": 24,
+        "price": 401
+      }
+    ],
+    "dropInRate": 491,
+    "packages": [
+      {
+        "name": "Chandni Chowk Package",
+        "classes": 24,
+        "price": 3123,
+        "validityDays": 44
+      }
+    ],
+    "rating": "4.4",
+    "reviewCount": 224,
+    "isActive": true
+  },
+  {
+    "name": "Civil Lines Yoga Center",
+    "description": "Premium yoga studio in Civil Lines offering iyengar yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "99 Civil Lines",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110054",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.24313737270816,
+        28.67639184957111
+      ]
+    },
+    "phone": "+91-9876543020",
+    "email": "info@civillines-yoga.com",
+    "website": "https://civillines-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Iyengar Yoga",
+        "instructor": "Sneha Reddy",
+        "capacity": 22,
+        "price": 356
+      }
+    ],
+    "dropInRate": 417,
+    "packages": [
+      {
+        "name": "Civil Lines Package",
+        "classes": 10,
+        "price": 3586,
+        "validityDays": 40
+      }
+    ],
+    "rating": "4.3",
+    "reviewCount": 52,
+    "isActive": true
+  },
+  {
+    "name": "Model Town Yoga Center",
+    "description": "Premium yoga studio in Model Town offering jivamukti yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "8 Model Town",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110009",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.24761683479575,
+        28.69074596043369
+      ]
+    },
+    "phone": "+91-9876543021",
+    "email": "info@modeltown-yoga.com",
+    "website": "https://modeltown-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Jivamukti Yoga",
+        "instructor": "Sneha Reddy",
+        "capacity": 31,
+        "price": 402
+      }
+    ],
+    "dropInRate": 422,
+    "packages": [
+      {
+        "name": "Model Town Package",
+        "classes": 16,
+        "price": 2166,
+        "validityDays": 49
+      }
+    ],
+    "rating": "4.5",
+    "reviewCount": 79,
+    "isActive": true
+  },
+  {
+    "name": "Kingsway Camp Yoga Center",
+    "description": "Premium yoga studio in Kingsway Camp offering restorative yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "5 Kingsway Camp",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110009",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.22524782867751,
+        28.72743383191214
+      ]
+    },
+    "phone": "+91-9876543022",
+    "email": "info@kingswaycamp-yoga.com",
+    "website": "https://kingswaycamp-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Restorative Yoga",
+        "instructor": "Pandit Ram Das",
+        "capacity": 15,
+        "price": 378
+      }
+    ],
+    "dropInRate": 327,
+    "packages": [
+      {
+        "name": "Kingsway Camp Package",
+        "classes": 13,
+        "price": 3342,
+        "validityDays": 57
+      }
+    ],
+    "rating": "4.2",
+    "reviewCount": 79,
+    "isActive": true
+  },
+  {
+    "name": "Mukherjee Nagar Yoga Center",
+    "description": "Premium yoga studio in Mukherjee Nagar offering kundalini yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "47 Mukherjee Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110009",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.21721246490695,
+        28.701338066413776
+      ]
+    },
+    "phone": "+91-9876543023",
+    "email": "info@mukherjeenagar-yoga.com",
+    "website": "https://mukherjeenagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Kundalini Yoga",
+        "instructor": "Riya Sharma",
+        "capacity": 18,
+        "price": 334
+      }
+    ],
+    "dropInRate": 324,
+    "packages": [
+      {
+        "name": "Mukherjee Nagar Package",
+        "classes": 21,
+        "price": 2589,
+        "validityDays": 31
+      }
+    ],
+    "rating": "3.5",
+    "reviewCount": 65,
+    "isActive": true
+  },
+  {
+    "name": "Vijay Nagar Yoga Center",
+    "description": "Premium yoga studio in Vijay Nagar offering restorative yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "70 Vijay Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110009",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.19815687746778,
+        28.70146253891548
+      ]
+    },
+    "phone": "+91-9876543024",
+    "email": "info@vijaynagar-yoga.com",
+    "website": "https://vijaynagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Restorative Yoga",
+        "instructor": "Dr. Anjali Sen",
+        "capacity": 21,
+        "price": 457
+      }
+    ],
+    "dropInRate": 432,
+    "packages": [
+      {
+        "name": "Vijay Nagar Package",
+        "classes": 10,
+        "price": 2897,
+        "validityDays": 45
+      }
+    ],
+    "rating": "3.6",
+    "reviewCount": 90,
+    "isActive": true
+  },
+  {
+    "name": "Kamla Nagar Yoga Center",
+    "description": "Premium yoga studio in Kamla Nagar offering bikram yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "64 Kamla Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110007",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.18092221788669,
+        28.670201205406812
+      ]
+    },
+    "phone": "+91-9876543025",
+    "email": "info@kamlanagar-yoga.com",
+    "website": "https://kamlanagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Bikram Yoga",
+        "instructor": "Dr. Meera Singh",
+        "capacity": 18,
+        "price": 388
+      }
+    ],
+    "dropInRate": 460,
+    "packages": [
+      {
+        "name": "Kamla Nagar Package",
+        "classes": 15,
+        "price": 2792,
+        "validityDays": 42
+      }
+    ],
+    "rating": "4.6",
+    "reviewCount": 165,
+    "isActive": true
+  },
+  {
+    "name": "Maurice Nagar Yoga Center",
+    "description": "Premium yoga studio in Maurice Nagar offering ashtanga yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "12 Maurice Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110007",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.17344347501437,
+        28.69847296204959
+      ]
+    },
+    "phone": "+91-9876543026",
+    "email": "info@mauricenagar-yoga.com",
+    "website": "https://mauricenagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Ashtanga Yoga",
+        "instructor": "Dr. Meera Singh",
+        "capacity": 31,
+        "price": 307
+      }
+    ],
+    "dropInRate": 385,
+    "packages": [
+      {
+        "name": "Maurice Nagar Package",
+        "classes": 23,
+        "price": 3753,
+        "validityDays": 52
+      }
+    ],
+    "rating": "4.5",
+    "reviewCount": 130,
+    "isActive": true
+  },
+  {
+    "name": "Hudson Lines Yoga Center",
+    "description": "Premium yoga studio in Hudson Lines offering hatha yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "63 Hudson Lines",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110007",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.164635764298,
+        28.695716881572917
+      ]
+    },
+    "phone": "+91-9876543027",
+    "email": "info@hudsonlines-yoga.com",
+    "website": "https://hudsonlines-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space",
+      "ac"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Hatha Yoga",
+        "instructor": "Guru Mahesh",
+        "capacity": 31,
+        "price": 304
+      }
+    ],
+    "dropInRate": 445,
+    "packages": [
+      {
+        "name": "Hudson Lines Package",
+        "classes": 14,
+        "price": 3385,
+        "validityDays": 56
+      }
+    ],
+    "rating": "4.4",
+    "reviewCount": 156,
+    "isActive": true
+  },
+  {
+    "name": "Shakti Nagar Yoga Center",
+    "description": "Premium yoga studio in Shakti Nagar offering restorative yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "22 Shakti Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110007",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.16197629356414,
+        28.689137771969815
+      ]
+    },
+    "phone": "+91-9876543028",
+    "email": "info@shaktinagar-yoga.com",
+    "website": "https://shaktinagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Restorative Yoga",
+        "instructor": "Lakshmi Devi",
+        "capacity": 29,
+        "price": 310
+      }
+    ],
+    "dropInRate": 316,
+    "packages": [
+      {
+        "name": "Shakti Nagar Package",
+        "classes": 18,
+        "price": 3526,
+        "validityDays": 54
+      }
+    ],
+    "rating": "3.9",
+    "reviewCount": 199,
+    "isActive": true
+  },
+  {
+    "name": "Rohtak Road Yoga Center",
+    "description": "Premium yoga studio in Rohtak Road offering kundalini yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "52 Rohtak Road",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110007",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.15669036235184,
+        28.66875306637037
+      ]
+    },
+    "phone": "+91-9876543029",
+    "email": "info@rohtakroad-yoga.com",
+    "website": "https://rohtakroad-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Kundalini Yoga",
+        "instructor": "Riya Sharma",
+        "capacity": 30,
+        "price": 362
+      }
+    ],
+    "dropInRate": 363,
+    "packages": [
+      {
+        "name": "Rohtak Road Package",
+        "classes": 24,
+        "price": 3858,
+        "validityDays": 53
+      }
+    ],
+    "rating": "3.7",
+    "reviewCount": 71,
+    "isActive": true
+  },
+  {
+    "name": "Rajinder Nagar Yoga Center",
+    "description": "Premium yoga studio in Rajinder Nagar offering power yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "30 Rajinder Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110060",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.1306233636047,
+        28.66543425448469
+      ]
+    },
+    "phone": "+91-9876543030",
+    "email": "info@rajindernagar-yoga.com",
+    "website": "https://rajindernagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space",
+      "ac",
+      "heating"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Power Yoga",
+        "instructor": "Arjun Mehta",
+        "capacity": 30,
+        "price": 352
+      }
+    ],
+    "dropInRate": 301,
+    "packages": [
+      {
+        "name": "Rajinder Nagar Package",
+        "classes": 14,
+        "price": 2380,
+        "validityDays": 53
+      }
+    ],
+    "rating": "3.6",
+    "reviewCount": 194,
+    "isActive": true
+  },
+  {
+    "name": "Rajendra Place Yoga Center",
+    "description": "Premium yoga studio in Rajendra Place offering jivamukti yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "28 Rajendra Place",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110008",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.12547285428175,
+        28.645261228700026
+      ]
+    },
+    "phone": "+91-9876543031",
+    "email": "info@rajendraplace-yoga.com",
+    "website": "https://rajendraplace-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Jivamukti Yoga",
+        "instructor": "Pandit Ram Das",
+        "capacity": 21,
+        "price": 488
+      }
+    ],
+    "dropInRate": 421,
+    "packages": [
+      {
+        "name": "Rajendra Place Package",
+        "classes": 17,
+        "price": 2288,
+        "validityDays": 36
+      }
+    ],
+    "rating": "3.8",
+    "reviewCount": 72,
+    "isActive": true
+  },
+  {
+    "name": "Rajouri Garden Yoga Center",
+    "description": "Premium yoga studio in Rajouri Garden offering iyengar yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "67 Rajouri Garden",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110027",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.11136510515404,
+        28.640365174403044
+      ]
+    },
+    "phone": "+91-9876543032",
+    "email": "info@rajourigarden-yoga.com",
+    "website": "https://rajourigarden-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Iyengar Yoga",
+        "instructor": "Guru Mahesh",
+        "capacity": 22,
+        "price": 482
+      }
+    ],
+    "dropInRate": 371,
+    "packages": [
+      {
+        "name": "Rajouri Garden Package",
+        "classes": 21,
+        "price": 3967,
+        "validityDays": 46
+      }
+    ],
+    "rating": "4.1",
+    "reviewCount": 62,
+    "isActive": true
+  },
+  {
+    "name": "Tagore Garden Yoga Center",
+    "description": "Premium yoga studio in Tagore Garden offering hatha yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "97 Tagore Garden",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110027",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.10695617784691,
+        28.63569107150851
+      ]
+    },
+    "phone": "+91-9876543033",
+    "email": "info@tagoregarden-yoga.com",
+    "website": "https://tagoregarden-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space",
+      "ac"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Hatha Yoga",
+        "instructor": "Swami Vivek",
+        "capacity": 28,
+        "price": 379
+      }
+    ],
+    "dropInRate": 462,
+    "packages": [
+      {
+        "name": "Tagore Garden Package",
+        "classes": 17,
+        "price": 3963,
+        "validityDays": 52
+      }
+    ],
+    "rating": "4.7",
+    "reviewCount": 168,
+    "isActive": true
+  },
+  {
+    "name": "Subhash Nagar Yoga Center",
+    "description": "Premium yoga studio in Subhash Nagar offering yin yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "80 Subhash Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110027",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.10677593688084,
+        28.61011424091151
+      ]
+    },
+    "phone": "+91-9876543034",
+    "email": "info@subhashnagar-yoga.com",
+    "website": "https://subhashnagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space",
+      "ac",
+      "heating"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Yin Yoga",
+        "instructor": "Arjun Mehta",
+        "capacity": 19,
+        "price": 373
+      }
+    ],
+    "dropInRate": 470,
+    "packages": [
+      {
+        "name": "Subhash Nagar Package",
+        "classes": 21,
+        "price": 2080,
+        "validityDays": 47
+      }
+    ],
+    "rating": "4.0",
+    "reviewCount": 219,
+    "isActive": true
+  },
+  {
+    "name": "Tilak Nagar Yoga Center",
+    "description": "Premium yoga studio in Tilak Nagar offering iyengar yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "89 Tilak Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110018",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.0859819905125,
+        28.612278993605376
+      ]
+    },
+    "phone": "+91-9876543035",
+    "email": "info@tilaknagar-yoga.com",
+    "website": "https://tilaknagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Iyengar Yoga",
+        "instructor": "Lakshmi Devi",
+        "capacity": 17,
+        "price": 394
+      }
+    ],
+    "dropInRate": 425,
+    "packages": [
+      {
+        "name": "Tilak Nagar Package",
+        "classes": 14,
+        "price": 2371,
+        "validityDays": 49
+      }
+    ],
+    "rating": "4.8",
+    "reviewCount": 62,
+    "isActive": true
+  },
+  {
+    "name": "Moti Nagar Yoga Center",
+    "description": "Premium yoga studio in Moti Nagar offering jivamukti yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "88 Moti Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110015",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.08695577165798,
+        28.590454781089832
+      ]
+    },
+    "phone": "+91-9876543036",
+    "email": "info@motinagar-yoga.com",
+    "website": "https://motinagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Jivamukti Yoga",
+        "instructor": "Anita Patel",
+        "capacity": 18,
+        "price": 422
+      }
+    ],
+    "dropInRate": 309,
+    "packages": [
+      {
+        "name": "Moti Nagar Package",
+        "classes": 16,
+        "price": 2905,
+        "validityDays": 46
+      }
+    ],
+    "rating": "4.0",
+    "reviewCount": 79,
+    "isActive": true
+  },
+  {
+    "name": "Kirti Nagar Yoga Center",
+    "description": "Premium yoga studio in Kirti Nagar offering yin yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "95 Kirti Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110015",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.06918966795727,
+        28.585963565811387
+      ]
+    },
+    "phone": "+91-9876543037",
+    "email": "info@kirtinagar-yoga.com",
+    "website": "https://kirtinagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Yin Yoga",
+        "instructor": "Guru Param",
+        "capacity": 23,
+        "price": 449
+      }
+    ],
+    "dropInRate": 382,
+    "packages": [
+      {
+        "name": "Kirti Nagar Package",
+        "classes": 24,
+        "price": 3732,
+        "validityDays": 50
+      }
+    ],
+    "rating": "4.7",
+    "reviewCount": 243,
+    "isActive": true
+  },
+  {
+    "name": "Shadipur Yoga Center",
+    "description": "Premium yoga studio in Shadipur offering restorative yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "100 Shadipur",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110008",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.06143496668147,
+        28.58248255001493
+      ]
+    },
+    "phone": "+91-9876543038",
+    "email": "info@shadipur-yoga.com",
+    "website": "https://shadipur-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space",
+      "ac"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Restorative Yoga",
+        "instructor": "Priya Sharma",
+        "capacity": 29,
+        "price": 332
+      }
+    ],
+    "dropInRate": 420,
+    "packages": [
+      {
+        "name": "Shadipur Package",
+        "classes": 17,
+        "price": 3472,
+        "validityDays": 51
+      }
+    ],
+    "rating": "3.5",
+    "reviewCount": 212,
+    "isActive": true
+  },
+  {
+    "name": "Patel Nagar Yoga Center",
+    "description": "Premium yoga studio in Patel Nagar offering ashtanga yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "82 Patel Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110008",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.04633584468411,
+        28.575234158670433
+      ]
+    },
+    "phone": "+91-9876543039",
+    "email": "info@patelnagar-yoga.com",
+    "website": "https://patelnagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Ashtanga Yoga",
+        "instructor": "Sneha Reddy",
+        "capacity": 18,
+        "price": 403
+      }
+    ],
+    "dropInRate": 320,
+    "packages": [
+      {
+        "name": "Patel Nagar Package",
+        "classes": 19,
+        "price": 3004,
+        "validityDays": 56
+      }
+    ],
+    "rating": "4.9",
+    "reviewCount": 126,
+    "isActive": true
+  },
+  {
+    "name": "Rajinder Nagar Yoga Center",
+    "description": "Premium yoga studio in Rajinder Nagar offering power yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "41 Rajinder Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110060",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.0342294678239,
+        28.563890046776542
+      ]
+    },
+    "phone": "+91-9876543040",
+    "email": "info@rajindernagar-yoga.com",
+    "website": "https://rajindernagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Power Yoga",
+        "instructor": "Arjun Mehta",
+        "capacity": 34,
+        "price": 332
+      }
+    ],
+    "dropInRate": 364,
+    "packages": [
+      {
+        "name": "Rajinder Nagar Package",
+        "classes": 18,
+        "price": 2318,
+        "validityDays": 47
+      }
+    ],
+    "rating": "4.8",
+    "reviewCount": 67,
+    "isActive": true
+  },
+  {
+    "name": "Rajendra Place Yoga Center",
+    "description": "Premium yoga studio in Rajendra Place offering power yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "50 Rajendra Place",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110008",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.02908897472564,
+        28.55281417294654
+      ]
+    },
+    "phone": "+91-9876543041",
+    "email": "info@rajendraplace-yoga.com",
+    "website": "https://rajendraplace-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Power Yoga",
+        "instructor": "Guru Mahesh",
+        "capacity": 25,
+        "price": 371
+      }
+    ],
+    "dropInRate": 355,
+    "packages": [
+      {
+        "name": "Rajendra Place Package",
+        "classes": 16,
+        "price": 2804,
+        "validityDays": 42
+      }
+    ],
+    "rating": "4.4",
+    "reviewCount": 140,
+    "isActive": true
+  },
+  {
+    "name": "Rajouri Garden Yoga Center",
+    "description": "Premium yoga studio in Rajouri Garden offering vinyasa flow and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "51 Rajouri Garden",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110027",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.02620293450589,
+        28.536573517567785
+      ]
+    },
+    "phone": "+91-9876543042",
+    "email": "info@rajourigarden-yoga.com",
+    "website": "https://rajourigarden-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Vinyasa Flow",
+        "instructor": "Dr. Meera Singh",
+        "capacity": 15,
+        "price": 415
+      }
+    ],
+    "dropInRate": 424,
+    "packages": [
+      {
+        "name": "Rajouri Garden Package",
+        "classes": 20,
+        "price": 3258,
+        "validityDays": 55
+      }
+    ],
+    "rating": "4.2",
+    "reviewCount": 147,
+    "isActive": true
+  },
+  {
+    "name": "Tagore Garden Yoga Center",
+    "description": "Premium yoga studio in Tagore Garden offering ashtanga yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "83 Tagore Garden",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110027",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.00269623815761,
+        28.532047413398796
+      ]
+    },
+    "phone": "+91-9876543043",
+    "email": "info@tagoregarden-yoga.com",
+    "website": "https://tagoregarden-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space",
+      "ac"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Ashtanga Yoga",
+        "instructor": "Swami Vivek",
+        "capacity": 16,
+        "price": 315
+      }
+    ],
+    "dropInRate": 423,
+    "packages": [
+      {
+        "name": "Tagore Garden Package",
+        "classes": 11,
+        "price": 3224,
+        "validityDays": 36
+      }
+    ],
+    "rating": "4.2",
+    "reviewCount": 107,
+    "isActive": true
+  },
+  {
+    "name": "Subhash Nagar Yoga Center",
+    "description": "Premium yoga studio in Subhash Nagar offering ashtanga yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "73 Subhash Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110027",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.99994175099036,
+        28.520573032519962
+      ]
+    },
+    "phone": "+91-9876543044",
+    "email": "info@subhashnagar-yoga.com",
+    "website": "https://subhashnagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Ashtanga Yoga",
+        "instructor": "Swami Anand",
+        "capacity": 30,
+        "price": 474
+      }
+    ],
+    "dropInRate": 338,
+    "packages": [
+      {
+        "name": "Subhash Nagar Package",
+        "classes": 21,
+        "price": 3799,
+        "validityDays": 54
+      }
+    ],
+    "rating": "4.8",
+    "reviewCount": 240,
+    "isActive": true
+  },
+  {
+    "name": "Tilak Nagar Yoga Center",
+    "description": "Premium yoga studio in Tilak Nagar offering restorative yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "49 Tilak Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110018",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.98288082707435,
+        28.516630941751604
+      ]
+    },
+    "phone": "+91-9876543045",
+    "email": "info@tilaknagar-yoga.com",
+    "website": "https://tilaknagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Restorative Yoga",
+        "instructor": "Pandit Ram Das",
+        "capacity": 34,
+        "price": 426
+      }
+    ],
+    "dropInRate": 438,
+    "packages": [
+      {
+        "name": "Tilak Nagar Package",
+        "classes": 15,
+        "price": 2058,
+        "validityDays": 59
+      }
+    ],
+    "rating": "4.8",
+    "reviewCount": 162,
+    "isActive": true
+  },
+  {
+    "name": "Moti Nagar Yoga Center",
+    "description": "Premium yoga studio in Moti Nagar offering power yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "60 Moti Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110015",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.9756528833836,
+        28.502977472464366
+      ]
+    },
+    "phone": "+91-9876543046",
+    "email": "info@motinagar-yoga.com",
+    "website": "https://motinagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea",
+      "meditation_room",
+      "outdoor_space",
+      "ac",
+      "heating"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Power Yoga",
+        "instructor": "Anita Patel",
+        "capacity": 22,
+        "price": 484
+      }
+    ],
+    "dropInRate": 339,
+    "packages": [
+      {
+        "name": "Moti Nagar Package",
+        "classes": 18,
+        "price": 3419,
+        "validityDays": 44
+      }
+    ],
+    "rating": "4.4",
+    "reviewCount": 51,
+    "isActive": true
+  },
+  {
+    "name": "Kirti Nagar Yoga Center",
+    "description": "Premium yoga studio in Kirti Nagar offering kundalini yoga and other traditional practices. Modern facilities with experienced instructors.",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500"
+    ],
+    "address": {
+      "street": "5 Kirti Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipCode": "110015",
+      "country": "India"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.96046888225911,
+        28.48372924121198
+      ]
+    },
+    "phone": "+91-9876543047",
+    "email": "info@kirtinagar-yoga.com",
+    "website": "https://kirtinagar-yoga.com",
+    "amenities": [
+      "parking",
+      "showers",
+      "lockers",
+      "props",
+      "mats",
+      "towels",
+      "water",
+      "tea"
+    ],
+    "schedule": [
+      {
+        "day": "monday",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "className": "Kundalini Yoga",
+        "instructor": "Vikram Malhotra",
+        "capacity": 25,
+        "price": 303
+      }
+    ],
+    "dropInRate": 317,
+    "packages": [
+      {
+        "name": "Kirti Nagar Package",
+        "classes": 21,
+        "price": 2692,
+        "validityDays": 51
+      }
+    ],
+    "rating": "4.3",
+    "reviewCount": 137,
+    "isActive": true
+  }
+]
